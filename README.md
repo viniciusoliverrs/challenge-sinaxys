@@ -1,4 +1,4 @@
-# Flutter -Challenge Sinaxys
+# Flutter APP - Challenge Sinaxys
 
 <div style="display:flex;justify-content: space-between;">
  <img width="150" src="./printscreens/4.png"/>  
