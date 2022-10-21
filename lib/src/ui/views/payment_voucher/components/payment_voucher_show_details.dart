@@ -25,7 +25,7 @@ class _PaymentVoucherShowDetailsState extends State<PaymentVoucherShowDetails> {
             child: CommmonButton(
               isLoading: isLoaded,
               label: "Ver meu Saldo completo",
-              onPressed: isLoaded ? () async {
+              onPressed: !isLoaded ? () async {
                 setState(() {
                   isLoaded = true;
                 });
