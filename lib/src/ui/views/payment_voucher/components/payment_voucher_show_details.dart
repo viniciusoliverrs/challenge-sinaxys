@@ -25,7 +25,7 @@ class _PaymentVoucherShowDetailsState extends State<PaymentVoucherShowDetails> {
             child: CommmonButton(
               isLoading: isLoaded,
               label: "Ver meu Saldo completo",
-              onPressed: () async {
+              onPressed: isLoaded ? () async {
                 setState(() {
                   isLoaded = true;
                 });
@@ -46,7 +46,7 @@ class _PaymentVoucherShowDetailsState extends State<PaymentVoucherShowDetails> {
                     child: PaymentVoucherDetailsSheet(),
                   ),
                 );
-              },
+              } : null,
             ),
           ),
         ],
