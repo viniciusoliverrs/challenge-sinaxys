@@ -1,6 +1,6 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
-import 'package:challenge_sinaxys/src/utils/theme/app_colors.dart';
-import 'package:challenge_sinaxys/src/utils/theme/app_icons.dart';
+import 'package:challenge_sinaxys/src/ui/theme/app_colors.dart';
+import 'package:challenge_sinaxys/src/ui/theme/app_icons.dart';
 import 'package:flutter/material.dart';
 
 class CommonCloseButton extends StatelessWidget {

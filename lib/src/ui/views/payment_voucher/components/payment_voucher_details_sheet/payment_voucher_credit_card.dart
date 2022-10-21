@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import '../../../../../utils/common_widgets/common_text.dart';
-import '../../../../../utils/theme/app_colors.dart';
-import '../../../../../utils/theme/app_fonts.dart';
+import '../../../../common_widgets/common_text.dart';
+import '../../../../theme/app_colors.dart';
+import '../../../../theme/app_fonts.dart';
 
 class PaymentVoucherCreditCard extends StatelessWidget {
   const PaymentVoucherCreditCard({super.key});

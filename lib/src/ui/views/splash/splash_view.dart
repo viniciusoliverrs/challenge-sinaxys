@@ -1,4 +1,4 @@
-import 'package:challenge_sinaxys/src/utils/theme/app_colors.dart';
+import 'package:challenge_sinaxys/src/ui/theme/app_colors.dart';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 

@@ -1,8 +1,8 @@
 import 'package:challenge_sinaxys/src/utils/responsive.dart';
 import 'package:flutter/material.dart';
 
-import '../../../../utils/theme/app_colors.dart';
-import '../../../../utils/theme/app_fonts.dart';
+import '../../../theme/app_colors.dart';
+import '../../../theme/app_fonts.dart';
 
 class PaymentVoucherBottomNavigationBar extends StatelessWidget {
   final Function(int index) onTap;

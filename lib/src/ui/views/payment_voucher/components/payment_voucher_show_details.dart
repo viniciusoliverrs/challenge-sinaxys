@@ -1,7 +1,7 @@
 import 'package:challenge_sinaxys/src/ui/views/payment_voucher/components/payment_voucher_details_sheet/payment_voucher_details_sheet.dart';
 import 'package:flutter/material.dart';
 
-import '../../../../utils/common_widgets/common_button.dart';
+import '../../../common_widgets/common_button.dart';
 
 class PaymentVoucherShowDetails extends StatefulWidget {
   const PaymentVoucherShowDetails({super.key});

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-import '../../../../../utils/common_widgets/common_text.dart';
+import '../../../../common_widgets/common_text.dart';
 import '../../../../../utils/responsive.dart';
-import '../../../../../utils/theme/app_colors.dart';
-import '../../../../../utils/theme/app_fonts.dart';
+import '../../../../theme/app_colors.dart';
+import '../../../../theme/app_fonts.dart';
 
 class PaymentVoucherCreditedBy extends StatelessWidget {
   const PaymentVoucherCreditedBy({super.key});

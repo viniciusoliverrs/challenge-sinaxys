@@ -1,11 +1,11 @@
 import 'package:challenge_sinaxys/src/ui/views/payment_voucher/components/payment_voucher_details/payment_voucher_receipt_forecast.dart';
-import 'package:challenge_sinaxys/src/utils/common_widgets/common_text.dart';
-import 'package:challenge_sinaxys/src/utils/theme/app_colors.dart';
-import 'package:challenge_sinaxys/src/utils/theme/app_fonts.dart';
-import 'package:challenge_sinaxys/src/utils/theme/app_icons.dart';
+import 'package:challenge_sinaxys/src/ui/common_widgets/common_text.dart';
+import 'package:challenge_sinaxys/src/ui/theme/app_colors.dart';
+import 'package:challenge_sinaxys/src/ui/theme/app_fonts.dart';
+import 'package:challenge_sinaxys/src/ui/theme/app_icons.dart';
 import 'package:flutter/material.dart';
 
-import '../../../../../utils/common_widgets/common_divider.dart';
+import '../../../../common_widgets/common_divider.dart';
 import '../../../../../utils/responsive.dart';
 import 'payment_voucher_credited_by.dart';
 import 'payment_voucher_date.dart';

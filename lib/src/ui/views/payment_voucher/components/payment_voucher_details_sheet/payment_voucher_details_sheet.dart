@@ -1,7 +1,7 @@
 import 'package:challenge_sinaxys/src/ui/views/payment_voucher/components/payment_voucher_details_sheet/payment_voucher_balance_available.dart';
 import 'package:challenge_sinaxys/src/ui/views/payment_voucher/components/payment_voucher_details_sheet/payment_voucher_payments_list.dart';
 import 'package:challenge_sinaxys/src/utils/responsive.dart';
-import 'package:challenge_sinaxys/src/utils/theme/app_colors.dart';
+import 'package:challenge_sinaxys/src/ui/theme/app_colors.dart';
 import 'package:flutter/material.dart';
 
 import 'payment_voucher_credit_card.dart';

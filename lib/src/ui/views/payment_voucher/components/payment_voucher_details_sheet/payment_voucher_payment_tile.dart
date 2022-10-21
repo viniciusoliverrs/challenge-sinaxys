@@ -1,8 +1,8 @@
-import 'package:challenge_sinaxys/src/utils/common_widgets/common_button_link.dart';
-import 'package:challenge_sinaxys/src/utils/common_widgets/common_divider.dart';
-import 'package:challenge_sinaxys/src/utils/common_widgets/common_text.dart';
-import 'package:challenge_sinaxys/src/utils/theme/app_colors.dart';
-import 'package:challenge_sinaxys/src/utils/theme/app_fonts.dart';
+import 'package:challenge_sinaxys/src/ui/common_widgets/common_button_link.dart';
+import 'package:challenge_sinaxys/src/ui/common_widgets/common_divider.dart';
+import 'package:challenge_sinaxys/src/ui/common_widgets/common_text.dart';
+import 'package:challenge_sinaxys/src/ui/theme/app_colors.dart';
+import 'package:challenge_sinaxys/src/ui/theme/app_fonts.dart';
 import 'package:flutter/material.dart';
 
 class PaymentVoucherPaymentsTile extends StatelessWidget {
